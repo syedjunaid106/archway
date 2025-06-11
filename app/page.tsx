@@ -9,7 +9,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import Image from "next/image";
-import logo from "../public/Logo.jpg";
+import logo from "../public/Logo.png";
 import clients from "../public/clients.png";
 import iconarr from "../public/iconarr.png";
 import msg from "../public/msg.png";
