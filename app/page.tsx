@@ -224,7 +224,7 @@ export default function Home() {
               <HowWeCanHelp />
             </div>
             <div className="flex justify-center lg:pt-0 md:pt-0 pt-14">
-              <Link href="#">
+              {/* <Link href="#">
                 <button className="transform hover:scale-105 transition-transform duration-300 ease-in-out">
                   <div className="flex items-center lg:px-32  md:py-5 px-14 py-3 rounded-full lg:gap-6 md:gap-6 m-mob:gap-6 s-mob:gap-4  gap-4 font-bold text-white lg:text-xl md:text-xl m-mob:text-xl s-mob:text-lg bg-gradient-to-r from-[#D60000] via-[#FF3C3C] to-[#B0B0B0]">
                     <div className="">
@@ -232,7 +232,7 @@ export default function Home() {
                     </div>
                   </div>
                 </button>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </section>
