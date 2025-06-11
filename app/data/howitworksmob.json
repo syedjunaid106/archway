@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "address": "/sec3c3.png",
+    "address1": "/1.png",
+    "h": "Book a Free Consultation",
+    "w1": 220,
+    "w2": 65,
+    "height": 165,
+    "data": "Tell us about your residential, commercial, or renovation project. We'll understand your needs and guide you through the next steps."
+  },
+  {
+    "id": 2,
+    "address1": "/sec3c22.png",
+    "address": "/2.png",
+    "h": "On-Site Assessment",
+    "w1": 130,
+    "w2": 200,
+    "height": 165,
+    "data": "Our certified electricians visit your location, assess the electrical systems, and create a safe, tailored plan that meets all code requirements."
+  },
+  {
+    "id": 3,
+    "address": "/sec3c1.png",
+    "address1": "/3.png",
+    "h": "Professional Installation",
+    "w1": 190,
+    "w2": 100,
+    "height": 165,
+    "data": "We execute the project efficiently—from rewiring to upgrades—ensuring safety, compliance, and minimal disruption to your property."
+  }
+]

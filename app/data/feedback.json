@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "address": "/person1.png",
+    "h1": "Michael Thompson",
+    "h2": "Homeowner – Residential Project",
+    "address2": "/stars.png",
+    "data": "The team handled our entire home's rewiring professionally and on time. Their attention to safety and detail was exceptional — highly recommend for any residential electrical work!"
+  },
+  {
+    "id": 2,
+    "address": "/person2.png",
+    "h1": "Sarah Martinez",
+    "h2": "Business Owner – Café Renovation",
+    "address2": "/stars.png",
+    "data": "Excellent service during our café renovation! They upgraded all our lighting and wiring efficiently and explained everything clearly. Super reliable and friendly team."
+  }
+]

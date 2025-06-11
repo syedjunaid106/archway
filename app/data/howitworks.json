@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "address": "/sec3c3.png",
+    "address1": "/1.png",
+    "h": "Book a Free Consultation",
+    "w1": 220,
+    "w2": 225,
+    "height": 165,
+    "data": "Tell us about your electrical needs—residential, commercial, or renovation. We'll assess your requirements and guide the best path forward."
+  },
+  {
+    "id": 2,
+    "address": "/sec3c22.png",
+    "address1": "/2.png",
+    "h": "On-Site Evaluation & Quote",
+    "w1": 263,
+    "w2": 545,
+    "height": 165,
+    "data": "Our licensed electricians inspect your site, evaluate existing systems, and prepare a detailed action plan with transparent pricing."
+  },
+  {
+    "id": 3,
+    "address": "/sec3c1.png",
+    "address1": "/3.png",
+    "h": "Professional Execution",
+    "w1": 233,
+    "w2": 337,
+    "height": 165,
+    "data": "We carry out installations, upgrades, or repairs with precision and care—ensuring full safety compliance and minimal disruption."
+  }
+]

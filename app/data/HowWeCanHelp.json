@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "address": "/rocket1.jpg",
+    "pill": "Residential Solutions",
+    "heading": "Home Electrical Services",
+    "w": 350,
+    "data": [
+      "Expert electrical installations, repairs, and upgrades for your home.",
+      "Ensure safety, efficiency, and compliance with certified professionals.",
+      "Modernize your living space with smart wiring and energy-saving solutions.",
+      "Fast, clean, and reliable service tailored to residential needs."
+    ]
+  },
+  {
+    "id": 2,
+    "address": "/earth.jpg",
+    "pill": "Commercial Expertise",
+    "heading": "Commercial Electrical Work",
+    "w": 350,
+    "data": [
+      "Powerful and scalable solutions for offices, retail, and industrial spaces.",
+      "Custom lighting, wiring, and panel upgrades for business environments.",
+      "Minimize downtime with efficient, on-time project delivery.",
+      "Professional-grade systems that meet all safety and code requirements."
+    ]
+  },
+  {
+    "id": 3,
+    "address": "/radio.jpg",
+    "pill": "Project Renovations",
+    "heading": "Electrical Renovations",
+    "w": 315,
+    "data": [
+      "Upgrade outdated electrical systems for safety and performance.",
+      "Seamless integration with remodeling or expansion projects.",
+      "Improve energy efficiency with the latest technologies.",
+      "Reliable support from planning to final inspection."
+    ]
+  }
+]

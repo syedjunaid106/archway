@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "address":"/s1.png"
+    },
+    {
+        "id":2,
+        "address":"/s2.png"
+    },
+    {
+        "id":3,
+        "address":"/s3.png"
+    },
+    {
+        "id":4,
+        "address":"/s4.png"
+    },
+    {
+        "id":5,
+        "address":"/s5.png"
+    }
+]

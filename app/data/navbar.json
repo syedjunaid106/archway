@@ -1,0 +1,18 @@
+[
+  {
+    "id": "#",
+    "data": "Work"
+  },
+  {
+    "id": "services",
+    "data": "Services"
+  },
+  {
+    "id": "testimonials",
+    "data": "Testimonials"
+  },
+  {
+    "id": "how-it-works",
+    "data": "Our Process"
+  }
+]

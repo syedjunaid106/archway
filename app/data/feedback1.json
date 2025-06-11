@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "address": "/person3.png",
+    "h1": "David Lee",
+    "h2": "Operations Manager – Commercial Office",
+    "address2": "/stars.png",
+    "data": "Fast, clean, and professional. They completed the commercial panel upgrade with zero disruption to our team. Definitely our go-to for any future electrical projects."
+  },
+  {
+    "id": 4,
+    "address": "/person4.png",
+    "h1": "Linda Foster",
+    "h2": "Contractor – Renovation Partner",
+    "address2": "/stars.png",
+    "data": "Their expertise in electrical renovations has made them a trusted partner for our remodeling projects. Seamless coordination and top-quality results every time."
+  }
+]
