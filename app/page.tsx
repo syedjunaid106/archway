@@ -378,57 +378,7 @@ export default function Home() {
         {/* section 5 ends here */}
         <section>
           {/* section 6 starts here footer */}
-          <div className="containers flex lg:flex-row md:flex-col flex-col gap-10 mx-auto pt-10 pb-28">
-            <Link
-              href="#"
-              className="transform hover:scale-105 transition-transform duration-300 ease-in-out"
-            >
-              <div
-                className={`flex lg:flex-row md:flex-row flex-col items-center   rounded-3xl overflow-hidden bg-[#1B1B1B] justify-between `}
-              >
-                <div className="lg:py-16 md:py-16  p-10 mx-auto">
-                  <p className="lg:text-6xl md:text-6xl text-5xl text-white font-Baloo text-start font-bold">
-                    Electrical Inspection
-                  </p>
-                </div>
-                <div>
-                  <Image
-                    className="lg:inline md:inline hidden lg:w-[297px] md:w-[297px] w-[273px] "
-                    src={footer1}
-                    alt=""
-                  />
-                  <Image
-                    className="lg:hidden md:hidden inline lg:w-[297px] md:w-[297px] w-[373px]  "
-                    src={footer5}
-                    alt=""
-                  />
-                </div>
-              </div>
-            </Link>
-            <Link href="#">
-              <button className="transform hover:scale-105 transition-transform duration-300 ease-in-out">
-                <div className="flex lg:flex-row md:flex-row flex-col   items-center rounded-3xl bg-[#1B1B1B] justify-between">
-                  <div className="lg:py-16 md:py-16  p-10  mx-auto">
-                    <p className="lg:text-6xl md:text-6xl text-5xl text-white text-start  font-bold">
-                      Call Electrician
-                    </p>
-                  </div>
-                  <div className="flex ">
-                    <Image
-                      className=" lg:inline md:inline hidden lg:w-[412px] md:w-[407px] w-[259px]"
-                      src={footer2}
-                      alt=""
-                    />
-                    <Image
-                      className="lg:hidden md:hidden inline lg:w-[407px] md:w-[407px] w-[369px]"
-                      src={footer22}
-                      alt=""
-                    />
-                  </div>
-                </div>
-              </button>
-            </Link>
-          </div>
+          {/* s */}
           <div>
             <div className=" flex justify-center   bg-[#000000]   mx-auto">
               <button>
